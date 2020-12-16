@@ -61,9 +61,8 @@ ayudar a fomentar las precauciones de seguridad adecuadas<br><br>
 </script>
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
-  intent="WELCOME"
   chat-title="PrecaucionesDeSeguridad"
-  agent-id="604e9bf3-0495-418e-b8c8-905fa0f07f4a"
-  language-code="en"
+  agent-id="2ca94595-310c-438d-92e1-6182cf959a68"
+  language-code="es"
 ></df-messenger>
 
