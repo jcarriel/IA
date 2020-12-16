@@ -1,5 +1,9 @@
-<div>Teachable Machine Image Model</div>
-<button type="button" onclick="init()">Start</button>
+Bienvenidos al proyecto de Precauciones de seguridad
+Este proyecto monitorea cuándo se usan correctamente las máscaras/guantes para<br>
+ayudar a fomentar las precauciones de seguridad adecuadas
+
+INICIAR
+<button type="button" onclick="init()">INICIAR</button>
 <div id="webcam-container"></div>
 <div id="label-container"></div>
 <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.3.1/dist/tf.min.js"></script>
