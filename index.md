@@ -1,8 +1,6 @@
 Bienvenidos al proyecto de Precauciones de seguridad
-Este proyecto monitorea cuándo se usan correctamente las máscaras/guantes para<br>
+Este proyecto monitorea cuándo se usan correctamente las máscaras/guantes para
 ayudar a fomentar las precauciones de seguridad adecuadas
-
-INICIAR
 <button type="button" onclick="init()">INICIAR</button>
 <div id="webcam-container"></div>
 <div id="label-container"></div>
