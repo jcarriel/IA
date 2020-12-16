@@ -1,4 +1,4 @@
-<b>Bienvenidos al proyecto de Precauciones de seguridad<b><br>
+<b>Bienvenidos al proyecto de Precauciones de seguridad</b><br>
 Este proyecto monitorea cuándo se usan correctamente las máscaras/guantes para
 ayudar a fomentar las precauciones de seguridad adecuadas<br><br>
 <button type="button" onclick="init()">INICIAR</button>
